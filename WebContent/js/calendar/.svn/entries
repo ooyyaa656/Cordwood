@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="992"
+   name=""
+   committed-date="2006-05-23T08:59:53.440473Z"
+   url="svn+ssh://oug@devel.hxmt.org/var/lib/svn/hxmt/hcmp/trunk/src/main/webapp/scripts/calendar"
+   last-author="yangyang"
+   kind="dir"
+   uuid="610e41f1-210d-0410-b7b4-b96993b217d7"
+   repos="svn+ssh://oug@devel.hxmt.org/var/lib/svn"
+   revision="2029"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   committed-rev="992"
+   name="calendar-setup.js"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="40fa45fa7ad525d9bad14f7816c8b905"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:44.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar.js"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="d0a2820c5e4fe771d1ce909bcf72d103"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:44.000000Z"/>
+<entry
+   name="skins"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="992"
+   name=""
+   committed-date="2006-05-23T08:59:53.440473Z"
+   url="svn+ssh://oug@devel.hxmt.org/var/lib/svn/hxmt/hcmp/trunk/src/main/webapp/scripts/calendar/skins/aqua"
+   last-author="yangyang"
+   kind="dir"
+   uuid="610e41f1-210d-0410-b7b4-b96993b217d7"
+   repos="svn+ssh://oug@devel.hxmt.org/var/lib/svn"
+   revision="2029"/>
+<entry
+   committed-rev="992"
+   name="normal-bg.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="851134e42206fd3b173a3db654981bb6"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="menuarrow.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="1f8c673c8f76832febaeeac88a5f4353"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="active-bg.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="f8fb9f2b7428c94b41320aa1bc9cf601"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="rowhover-bg.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="c097de7289bcf68723e89c248b9a2749"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="theme.css"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="ec69465f70d45213258fe1f89c52eceb"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="today-bg.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="9befc7d912cad22ddf2ec3fc21188bfd"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="dark-bg.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="949f6a11667cbdfbb96f8986464ba81b"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="title-bg.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="8d652fc5b683706fcbbf1103131c6ac2"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="hover-bg.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="803ac4dbc56c05739f515d6ac6a66163"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+<entry
+   committed-rev="992"
+   name="status-bg.gif"
+   text-time="2006-09-30T03:03:46.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="123882ca533030f07ee55c3818fc46b9"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:46.000000Z"/>
+</wc-entries>

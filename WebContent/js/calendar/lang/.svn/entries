@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="992"
+   name=""
+   committed-date="2006-05-23T08:59:53.440473Z"
+   url="svn+ssh://oug@devel.hxmt.org/var/lib/svn/hxmt/hcmp/trunk/src/main/webapp/scripts/calendar/lang"
+   last-author="yangyang"
+   kind="dir"
+   uuid="610e41f1-210d-0410-b7b4-b96993b217d7"
+   repos="svn+ssh://oug@devel.hxmt.org/var/lib/svn"
+   revision="2029"/>
+<entry
+   committed-rev="992"
+   name="calendar-ko-utf8.js"
+   text-time="2006-09-30T03:03:42.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="483109247c98498dd8ca3e1d964d3694"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-fi.js"
+   text-time="2006-09-30T03:03:42.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="9bb8f2cfa7110334218bc2b0fdddad0e"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="cn_utf8.js"
+   text-time="2006-09-30T03:03:42.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="2085d58970714dcb754d08f7b214dd8b"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-ru_win_.js"
+   text-time="2006-09-30T03:03:42.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="8691274e34b1503a1739502daf0254ac"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-cs.js"
+   text-time="2006-09-30T03:03:42.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="48b020672a2d335b5020cf5664e688f9"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-es.js"
+   text-time="2006-09-30T03:03:42.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="55523d69f727dfa84cdd34aeb2374365"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-du.js"
+   text-time="2006-09-30T03:03:42.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="82ab1eabcc24cba821b950d12aaba8b3"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-ko.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="4178ef43b226eddb6ecc0367f8017a63"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-big5-utf8.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="d5fd8bc4a276fb5300f86c3b36f708cc"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-si.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="156a85ac09cb8fbfbe0cfa10d298537c"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-no.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="dd721b182fe3d3a14460c1b7eab0c964"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-hu.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="232a617f253c3bc3ddb890f9bc8db6a3"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-sk.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="2c67768be43637cc4309da7cc965a461"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-ro.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="55e788d3aaa3f2e629df3d7c07280345"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-he-utf8.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="e265fe31e9eea3fa0abac0f72c972adb"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-af.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="65fc5963bf1f044c7f0d89be381cb87a"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-ru.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="4d3db3ced43a1106b71c292e5ae86307"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-al.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="262ae300dc4b1ad182843190090d570d"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-hr-utf8.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="392a6d9d412b6963f9e8419a4c287027"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-pl-utf8.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="614b25091fe03a170d35d12d381d0429"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-cs-win.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="f1aef638931a6d2c99b83da5dd5798cb"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-el.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="fd2865e50a917262bcedcae736a6fd7c"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-en.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="46811ee79796d2345bea2308475d1ec9"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-lt-utf8.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="c01778c290d02a15c8612831be609a5f"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-br.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="9e06bff56a731ecb50fd175fd326a2f5"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-fr.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="3945e5409ec7d10f59a1f089a0229939"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:36.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-nl.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="6323a165d8e611b4a13c36a726840832"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:38.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-jp.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="daa00cd9c5bfbcf338c37b3c790f0d97"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:38.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-hr.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="0f7da0cc6544e0cace4aea02f28befce"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:38.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-pl.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="3104c0941463849a519c6b37f7e61687"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:38.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-it.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="c0ed118d9d2dca5d8c62ad64d47a1c8a"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:38.000000Z"/>
+<entry
+   name="orig"
+   kind="dir"/>
+<entry
+   committed-rev="992"
+   name="calendar-sl.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="b0144db61c3b09a6a4cea82c0205fcda"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:38.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-lt.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="4af03a287d2efdab43a5be95426a6eb1"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-lv.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="4e37f9a30066f1d7da9d4ac038e090ef"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-zh.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="3ad85a57c925c782a30cec1390f554df"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-sp.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="b33f7ed714a6cb112d5ec88c913527fe"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-ca.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="51b034ef205488c9377e4b4f0cb82658"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-pt.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="42651623911a76198ff71aee341e4468"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-da.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="7acb0de007f3644d5bb0f05107caa744"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-tr.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="094a1d14b005d725ccae07649706a326"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-big5.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="4b1a627631f4cebbc4e7ddc7bef547f9"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-bg.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="3298a656704f19df941945c06aab0a9d"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-de.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="8a1c86bfedbfbc38a9da9299040bfbeb"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-sv.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="a68ea4effe9045a7f055749bb1bf6010"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-cs-utf8.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="f86d200f17503bb20d008339eed953d1"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+<entry
+   committed-rev="992"
+   name="calendar-ja.js"
+   text-time="2006-09-30T03:03:44.000000Z"
+   committed-date="2006-05-23T08:59:53.440473Z"
+   checksum="7cc8b22e7bb95e681f70aba83ecf6d6f"
+   last-author="yangyang"
+   kind="file"
+   prop-time="2006-09-30T03:03:42.000000Z"/>
+</wc-entries>

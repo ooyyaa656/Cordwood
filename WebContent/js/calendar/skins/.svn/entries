@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="992"
+   name=""
+   committed-date="2006-05-23T08:59:53.440473Z"
+   url="svn+ssh://oug@devel.hxmt.org/var/lib/svn/hxmt/hcmp/trunk/src/main/webapp/scripts/calendar/skins"
+   last-author="yangyang"
+   kind="dir"
+   uuid="610e41f1-210d-0410-b7b4-b96993b217d7"
+   repos="svn+ssh://oug@devel.hxmt.org/var/lib/svn"
+   revision="2029"/>
+<entry
+   name="aqua"
+   kind="dir"/>
+</wc-entries>
