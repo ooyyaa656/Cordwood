@@ -12,6 +12,7 @@
 
 ### IntelliJ IDEA ###
 .idea
+*.bak
 *.iws
 *.iml
 *.ipr

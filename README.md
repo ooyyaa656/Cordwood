@@ -6,6 +6,6 @@
 
 对JSP初学者很友好，可以下载后直接使用。
 
-This is a project management with JSP. The earliest JSP code is used without introducing a complex framework.
+This is a project management software with JSP. The earliest JSP code is used without introducing a complex framework.
 
-This programm is very friendly for beginners and can be downloaded and used directly.
+This software is very friendly for beginners and can be downloaded and used directly.
